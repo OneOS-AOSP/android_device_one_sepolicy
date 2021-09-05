@@ -1,5 +1,5 @@
 # HALs
-hal_attribute_nad(lineage_camera_motor)
-hal_attribute_nad(lineage_livedisplay)
-hal_attribute_nad(lineage_touch)
-hal_attribute_nad(lineage_fod)
+hal_attribute_one(lineage_camera_motor)
+hal_attribute_one(lineage_livedisplay)
+hal_attribute_one(lineage_touch)
+hal_attribute_one(lineage_fod)

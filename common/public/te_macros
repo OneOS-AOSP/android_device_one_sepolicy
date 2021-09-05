@@ -1,6 +1,6 @@
 #####################################
-# hal_attribute_nad(hal_name)
-define(`hal_attribute_nad', `
+# hal_attribute_one(hal_name)
+define(`hal_attribute_one', `
 attribute hal_$1;
 expandattribute hal_$1 true;
 attribute hal_$1_client;
